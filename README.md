@@ -1,4 +1,4 @@
-# Stock Market Dashboard: [Live Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiM2ZjNjBmNDYtMjQxNC00Zjk3LWE3MGItMjgzNDQxYmMzMDBmIiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
+# Stock Market Dashboard: [Live Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiNDdjZWU3OGYtYjU5Yi00ZDYwLTk2YTAtM2FkNGU4ZTljODNkIiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
 ## 1) Overview:
 This dashboard is the continuous of the [Stock Market project](https://github.com/minhD03/stock-market.git), using the datasets collected from the project. 
 
