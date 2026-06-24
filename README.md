@@ -36,3 +36,4 @@ Indicate the stability of a company by measuring how fast and how much stock pri
 Demonstrate the most declined that each company underwent from the past.
 
 ## 5) Key findings:
+- Overall, NVIDIA shows the highest return with 10,68 times higher that itself in 2022. However, in t
