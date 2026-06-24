@@ -14,4 +14,5 @@ To solve the problem, this dashboard aims to answer the following business quest
 - Which companies demonstrate the strongest recent momentum based on price performance?
 
 ## 2) Screenshots:
-
+![alt text](https://github.com/minhD03/stock-market-dashboard/blob/56b6db0b50bd3d8404808d8433dc1f8b295c2339/images/dashboard-1.png)
+![alt text](https://github.com/minhD03/stock-market-dashboard/blob/56b6db0b50bd3d8404808d8433dc1f8b295c2339/images/dashboard-2.png)
