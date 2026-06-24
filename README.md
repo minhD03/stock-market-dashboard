@@ -23,8 +23,8 @@ The dataset contains daily stock market information including:
 - Trading Volume.
   
 ## 3) Screenshots:
-![alt text](https://github.com/minhD03/stock-market-dashboard/blob/90281f3dd631765b748f5f23e1b4e0af2db4fa57/images/dashboard-1.png)
-![alt text](https://github.com/minhD03/stock-market-dashboard/blob/db5598453e0001fb9178ed5c0b81dd27b2897e23/images/dashboard-2.png)
+![alt text](https://github.com/minhD03/stock-market-dashboard/blob/8ed80b2bfc022ce575488ad24eb03e93616293fe/images/dashboard-1.png)
+![alt text](https://github.com/minhD03/stock-market-dashboard/blob/8ed80b2bfc022ce575488ad24eb03e93616293fe/images/dashboard-2.png)
 
 ## 4) Key Measures:
 ### a) Total Return (%)
