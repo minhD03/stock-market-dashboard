@@ -13,6 +13,26 @@ To solve the problem, this dashboard aims to answer the following business quest
 - Which stocks provide the most attractive balance between risk and return?
 - Which companies demonstrate the strongest recent momentum based on price performance?
 
-## 2) Screenshots:
+## 2) Dataset:
+The dataset contains daily stock market information including:
+- Timestamp.
+- Date
+- High Price.
+- Low Price.
+- Open Price.
+- Close Price.
+- Trading Volume.
+  
+## 3) Screenshots:
 ![alt text](https://github.com/minhD03/stock-market-dashboard/blob/56b6db0b50bd3d8404808d8433dc1f8b295c2339/images/dashboard-1.png)
-![alt text](https://github.com/minhD03/stock-market-dashboard/blob/56b6db0b50bd3d8404808d8433dc1f8b295c2339/images/dashboard-2.png)
+![alt text](https://github.com/minhD03/stock-market-dashboard/blob/db5598453e0001fb9178ed5c0b81dd27b2897e23/images/dashboard-2.png)
+
+## 4) Key Measures:
+### a) Total Return (%)
+Measure the investment growth from the first trading day count to the latest available date based on Close Price.
+### b) Volatility: 
+Indicate the stability of a company by measuring how fast and how much stock price moves up and down over time.
+### c) Dragdown:
+Demonstrate the most declined that each company underwent from the past.
+
+## 5) Key findings:
