@@ -1,5 +1,15 @@
 # Stock Market Dashboard: [Live Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjA3MDJiMTYtMWM2OS00YmEwLTk4OTQtZGM5YmFmMTRjMmI5IiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
-## 1) Overview:
+
+## Table of Contents
+
+- [1) Introduction](#1-introduction)
+- [2) Datasets](#2-datasets)
+- [3) Screenshots](#3-screenshots)
+- [4) Key Measures](#4-key-measures)
+- [5) Key findings](#5-key-findings)
+- [6) Conclusions](#6-conclusions)
+
+## 1) Introduction:
 This dashboard is the continuous of the [Stock Market project](https://github.com/minhD03/stock-market.git), using the datasets collected from the project. 
 
 Problem Statement: Investors and analysts need an efficient way to compare the performance, risk, and trading behavior of multiple technology stocks over time. While stock prices alone provide limited insight, investment decisions require evaluating returns, volatility, drawdowns, and market activity simultaneously.
@@ -12,7 +22,7 @@ To solve the problem, this dashboard aims to answer the following business quest
 - Which stocks provide the most attractive balance between risk and return?
 - Which companies demonstrate the strongest recent momentum based on price performance?
 
-## 2) Dataset:
+## 2) Datasets:
 The dataset contains daily stock market information including:
 - Timestamp.
 - Date
