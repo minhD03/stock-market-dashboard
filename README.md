@@ -4,7 +4,7 @@
 
 - [1) Introduction](#1-introduction)
 - [2) Datasets](#2-datasets)
-- [3) Screenshots](#3-screenshots)
+- [3) Dashboard Pages](#3-dashboard-pages)
 - [4) Key Measures](#4-key-measures)
 - [5) Key findings](#5-key-findings)
 - [6) Conclusions](#6-conclusions)
@@ -32,7 +32,7 @@ The dataset contains daily stock market information including:
 - Close Price.
 - Trading Volume.
   
-## 3) Screenshots:
+## 3) Dashboard Pages:
 ![alt text](https://github.com/minhD03/stock-market-dashboard/blob/8ed80b2bfc022ce575488ad24eb03e93616293fe/images/dashboard-1.png)
 ![alt text](https://github.com/minhD03/stock-market-dashboard/blob/8ed80b2bfc022ce575488ad24eb03e93616293fe/images/dashboard-2.png)
 
