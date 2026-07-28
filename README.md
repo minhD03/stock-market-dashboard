@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Stock Market Dashboard: [Live Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiZGE0ZjgzMWQtMDRjYS00ZDJhLWJiODUtODdkZjFiMjg5M2E4IiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
-=======
-# Stock Market Dashboard: [Live Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiZTJiMWY4ZjMtOWNhOC00ZjE1LTk1ZjMtZjAwMTZiOGEyYTVlIiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
->>>>>>> 782db471dd7e802b3a54facbc1a3e7bf91ac37e1
+
 
 ## Table of Contents
 
@@ -37,7 +34,7 @@ The dataset contains daily stock market information including:
 - Trading Volume.
   
 ## 3) Dashboard Pages:
-![alt text](https://github.com/minhD03/stock-market-dashboard/blob/4cd84467eddb3872261b757ff79c95a7a76fa713/images/dashboard-1.png)
+![alt text](https://github.com/minhD03/stock-market-dashboard/blob/31c8ff2b8bfb42a7e03fd7d028da37af031304f3/images/dashboard-1.png)
 ![alt text](https://github.com/minhD03/stock-market-dashboard/blob/8ed80b2bfc022ce575488ad24eb03e93616293fe/images/dashboard-2.png)
 
 ## 4) Key Measures:
