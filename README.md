@@ -1,4 +1,4 @@
-# Stock Market Dashboard: [Live Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjA3MDJiMTYtMWM2OS00YmEwLTk4OTQtZGM5YmFmMTRjMmI5IiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
+# Stock Market Dashboard: [Live Report](https://app.fabric.microsoft.com/view?r=eyJrIjoiZGE0ZjgzMWQtMDRjYS00ZDJhLWJiODUtODdkZjFiMjg5M2E4IiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
 
 ## Table of Contents
 
