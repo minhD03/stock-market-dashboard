@@ -42,7 +42,7 @@ The dataset contains daily stock market information including:
 Measure the investment growth from the first trading day count to the latest available date based on Close Price.
 ### b) Volatility: 
 Indicate the stability of a company by measuring how fast and how much stock price moves up and down over time.
-### c) Dragdown:
+### c) Drawdown:
 Demonstrate the most declined that each company underwent from the past.
 
 ## 5) Key findings:
